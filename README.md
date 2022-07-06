@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sachinmarkad
 - 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently Amazon Web Services
+- 🌱 I’m currently working on Amazon Web Services
 - 📫 smarkad.cloud@gmail.com
 
 <!---
